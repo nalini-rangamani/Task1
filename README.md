@@ -1,4 +1,5 @@
 # Task1
+First you have to install Python , Flask 
 1.Let us say Pyhthon is set up in c:\PythonFiles
 2. in dir c:\PythonFiles\venv\app, copy the files
     task1.py and
